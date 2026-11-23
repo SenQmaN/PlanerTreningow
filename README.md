@@ -24,5 +24,8 @@ Aplikacja pozwala planować treningi, zapisywać ich wyniki i śledzić postępy
 - SQL Server Management Studio 18
 - GitHub
 
+## Powiązane repozytorium
+Baza danych projektu: [PlanerTreningow-BazaDanych](https://github.com/SenQmaN/PlanerTreningow-BazaDanych)
+
 ## Status
 Projekt w trakcie realizacji.
